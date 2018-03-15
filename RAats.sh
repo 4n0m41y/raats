@@ -1,12 +1,7 @@
 #!/bin/bash
 # ---------------------------------------------------
 # Author: 4n0m41y
-# 7 April 2017
-# ---------------------------------------------------
-#GNU GENERAL PUBLIC LICENSE
-#Version 3 - 29 June 2007
-#Copyright © 2007 Free Software #Foundation, Inc.
-#<http://fsf.org/>
+
 # ---------------------------------------------------
 # A simple bash script to circumvent 
 # pre installed NSA malware on 
